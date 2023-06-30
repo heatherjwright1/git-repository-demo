@@ -1,4 +1,5 @@
-## corect version!
+## PLEASE IGNORE! Correct answer on shop.py
+##corect version!
 
 items = {
     'shoes': 149,
